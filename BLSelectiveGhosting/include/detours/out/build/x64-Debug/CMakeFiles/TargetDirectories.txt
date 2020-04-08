@@ -1,0 +1,3 @@
+C:/Users/Admin/Downloads/BlocklandLua-master/BlocklandLua-master/BlocklandLua/detours/out/build/x64-Debug/CMakeFiles/MologieDetours.dir
+C:/Users/Admin/Downloads/BlocklandLua-master/BlocklandLua-master/BlocklandLua/detours/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Downloads/BlocklandLua-master/BlocklandLua-master/BlocklandLua/detours/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
